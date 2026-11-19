@@ -1,5 +1,7 @@
 Closes #
 
+<!-- Every PR links at least one open issue: 'Closes #<n>', or 'Refs <issue>' when the issue stays open after merge. Work for a closed issue: reopen it first. Checked by wiki-check. -->
+
 <!-- What changes and why, in a few lines. -->
 
 Wiki: <!-- the wiki/ pages this PR adds or changes, or: none: <reason>. Rules: https://github.com/rmx-lt/blade-of-grass/wiki/Wiki-Policy (section 4) -->
