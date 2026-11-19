@@ -1,6 +1,6 @@
 Closes #
 
-<!-- Every PR links at least one open issue: 'Closes #<n>', or 'Refs <issue>' when the issue stays open after merge. Work for a closed issue: reopen it first. Checked by wiki-check. -->
+<!-- Every PR closes at least one open issue ('Closes #<n>'; 'Refs' is only a mention). Deploys and live checks go in their own issue, closed by hand. Work for a closed issue: reopen it first. Checked by wiki-check. -->
 
 <!-- What changes and why, in a few lines. -->
 
